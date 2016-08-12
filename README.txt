@@ -30,7 +30,7 @@ Git Access
 ----------
 
 The source code for this project can be found at:
-	blah.blah.com
+	https://github.com/ledigiacomo/FTP
 
 Known Bugs
 ----------
